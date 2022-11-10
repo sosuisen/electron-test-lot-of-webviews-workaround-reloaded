@@ -15,7 +15,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "9.0.2",
+    "electron": "18.3.7",
     "@electron-forge/cli": "6.0.0-beta.34",
     "@electron-forge/maker-deb": "6.0.0-beta.34",
     "@electron-forge/maker-rpm": "6.0.0-beta.34",
